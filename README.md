@@ -1,6 +1,6 @@
 # TicTacToe
 
-![sample](https://github.com/a3963409/TicTacToe/raw/master/src/sample/img/game.png)
+![sample](https://github.com/a3963409/TicTacToe/raw/master/image/main.png)
 
 ## Synopsis
 
@@ -21,11 +21,15 @@ Feedback of codes is welcomed.
 ## Contributors
 
 Korea Digital Media High School
+
 2333 최명원 - programmer
-(https://github.com/Flynsarmy/PHPWebSocket-Chat)
+
+https://github.com/Flynsarmy/PHPWebSocket-Chat
 
 ## License
 
 The contents of this repository are licensed under the Apache License, Version 2.0. See
+
 [LICENSE](https://github.com/a3963409/TicTacToe/master/LICENSE) for the full
+
 license text.

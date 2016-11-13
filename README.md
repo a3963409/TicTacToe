@@ -30,6 +30,4 @@ https://github.com/Flynsarmy/PHPWebSocket-Chat
 
 The contents of this repository are licensed under the Apache License, Version 2.0. See
 
-[LICENSE](https://github.com/a3963409/TicTacToe/master/LICENSE) for the full
-
-license text.
+[LICENSE](https://github.com/a3963409/TicTacToe/master/LICENSE) for the full license text.
